@@ -16,7 +16,7 @@
 
 ```
 
-## License (Modified BSD)
+## License (Modified BPL)
 
 Copyright (C) 2011, Blackpandlancer@gmail.com
 All rights reserved.
