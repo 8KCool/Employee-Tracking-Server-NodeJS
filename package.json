@@ -1,0 +1,21 @@
+{
+  "name": "smartsync_s3_api",
+  "version": "1.0.0",
+  "description": "API to get presigned S3 url",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "ritbikbharti",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.630.0",
+    "body-parser": "^1.20.1",
+    "express": "^4.17.1",
+    "mongoose": "^6.9.1"
+  }
+}
